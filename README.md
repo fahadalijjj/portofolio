@@ -1,21 +1,13 @@
 This is my portfolio app using Next JS and Tailwind CSS
-## Getting Started
 
-First, run the development server:
+Dark Mode
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+```![Desktop_image(7)](https://user-images.githubusercontent.com/72515303/220276883-aee4869c-f1d2-4c30-8709-5923d518a70e.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Light Mode
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+![Desktop_image(6)](https://user-images.githubusercontent.com/72515303/220277022-376ec38e-0450-46a0-847e-68fc7fa035b1.png)
 
-To learn more about Next.js, take a look at the following resources:
+Mobile Responsive
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![image(9)](https://user-images.githubusercontent.com/72515303/220277143-8b08d514-2d54-4e47-8111-1634aa2cc19e.png)

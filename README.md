@@ -1,13 +1,14 @@
 This is my portfolio app using Next JS and Tailwind CSS
 
-Dark Mode
+## Dark Mode
 
-```![Desktop_image(7)](https://user-images.githubusercontent.com/72515303/220276883-aee4869c-f1d2-4c30-8709-5923d518a70e.png)
+![portfoloi_mockup_1](https://user-images.githubusercontent.com/72515303/220279328-ec352112-ca32-48a2-8dba-afaa9bbb1a99.jpg)
 
-Light Mode
+## Light Mode 
 
-![Desktop_image(6)](https://user-images.githubusercontent.com/72515303/220277022-376ec38e-0450-46a0-847e-68fc7fa035b1.png)
+![portfolio_mockup_2](https://user-images.githubusercontent.com/72515303/220280191-c5044417-b77a-4d6d-8dd6-2244c477d55c.jpg)
 
-Mobile Responsive
+## Mobile Responsive
 
-![image(9)](https://user-images.githubusercontent.com/72515303/220277143-8b08d514-2d54-4e47-8111-1634aa2cc19e.png)
+![portfolio_mockup_3](https://user-images.githubusercontent.com/72515303/220280925-534d154d-30c8-4cbf-b5ab-64b5f80e5f7d.jpg)
+
